@@ -1,4 +1,4 @@
-GPU Model, Instance Type, Pricing X-Series (Dynamic) Per GPU-Hour Starts From, Lowest Bid, Highest Bid,
+GPU Model, Instance Type, Pricing X-Series (Dynamic) Per GPU-Hour Starts From, While Highest DDRA Flux, While Lowest DDRA Flux,
 Nvidia GH200, Lite VM, $ 1.08, $ 1.05, $ 4.32,
 Nvidia H100 SXM, Lite VM, $ 0.99, $ 0.87, $ 3.61,
 Nvidia H100 PCIe, Lite VM, $ 0.89, $ 0.77, $ 2.28,
