@@ -1,5 +1,5 @@
 GPU Model, Instance Type, Pricing X-Series (Dynamic) Per GPU-Hour Starts From USD || INR, While Highest DDRA Flux, While Lowest DDRA Flux,
-Nvidia GH200, Lite VM, $ 1.08 || ₹ 91, $ 1.05 || 90₹ , $ 4.32 || ₹ 370,
+Nvidia GH200, Lite VM, $ 1.08 || ₹ 91, $ 1.05 || ₹ 90, $ 4.32 || ₹ 370,
 Nvidia H100 SXM, Lite VM, $ 0.99 || ₹ 83, $ 0.87 || ₹ 75, $ 3.61 || ₹ 309,
 Nvidia H100 PCIe, Lite VM, $ 0.89 || ₹ 77, $ 0.77 || ₹ 66, $ 2.28 || ₹ 195,
 Nvidia A100 80GB SXM, Lite VM, $ 0.74 || ₹ 63, $0.55 || ₹ 47, $ 2.16 || ₹ 185,
