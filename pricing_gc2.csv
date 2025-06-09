@@ -1,4 +1,4 @@
-GPU Model, Instance Type, Pricing GC2 (Static) Per GPU-Hour USD, Spot GPUs, VRAM/GPU (Min. -Max.), vCPUs/GPU, RAM/GPU, Storage/GPU,
+GPU Model, Instance Type, Pricing GC2 (Static) Per GPU-Hour USD, Spot GPUs, VRAM/GPU (Min - Max), vCPUs/GPU, RAM/GPU, Storage/GPU,
 Nvidia GH200, Lite VM, $0.98, $0.49, (45-96) GB, 24, 164 GiB, 700 GiB SSD,
 Nvidia H100 SXM, Lite VM, $0.88, $0.44, (40-80) GB, 22, 154 GiB, 500 GiB SSD,
 Nvidia H100 PCIe, Lite VM, $0.72, $0.36, (40-80) GB, 22, 154 GiB, 500 GiB SSD,
