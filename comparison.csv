@@ -1,4 +1,4 @@
-GPU Providers,Primary GPU Instance,Instance Security,B200 /GPU/Hour,H200 /GPU/Hour,H100_SXM5 /GPU/Hour,H100_PCIe /GPU/Hour,A100_80GB /GPU/Hour,L40 /GPU/Hour,A6000 /GPU/Hour,
+GPU Providers,Primary GPU Instance,Instance Security,B200 /GPU/Hr,H200 /GPU/Hr,H100_SXM5 /GPU/Hr,H100_PCIe /GPU/Hr,A100_80GB /GPU/Hr,L40 /GPU/Hr,A6000 /GPU/Hr,
 RunPod,Container,Peer to Peer + Secure Cloud,$6.39,$4.00,$3.00,$2.20,$1.70,$1.00,$0.50,
 Lambda Labs,VM,Secured Datacenter,$--,$--,$3.30,$2.50,$1.80,$---,$0.80,
 Vultr,VM,Secured Datacenter,$--,$--,$3.00,$2.89,$2.38,$1.67,$---,
