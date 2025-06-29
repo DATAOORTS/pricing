@@ -1,6 +1,6 @@
 GPU Model, Instance Type - With KVM, Pricing X-Series (Dynamic) Per GPU-Hour Starts From USD, While Highest DDRA Flux, While Lowest DDRA Flux, Spot GPUs, VRAM/GPU, vCPUs/GPU, RAM/GPU, Storage/GPU,
-Nvidia GH200, VM, $1.28, $1.12, $2.92, $1.46, 96 GB, 64, 196 GiB, 980 GiB SSD,
-Nvidia H100 SXM, VM, $0.99, $0.85, $2.44, $1.22, 80 GB, 28, 180 GiB, 800 GiB SSD,
+Nvidia H200, VM, $1.28, $1.12, $1.98, $0.99, 96 GB, 64, 196 GiB, 980 GiB SSD,
+Nvidia H100 SXM5, VM, $0.99, $0.85, $1.94, $0.97, 80 GB, 28, 180 GiB, 800 GiB SSD,
 Nvidia H100 PCIe, VM, $0.89, $0.74, $1.54, $0.77, 80 GB, 28, 180 GiB, 850 GiB SSD,
 Nvidia A100 80GB SXM, VM, $0.74, $0.52, $1.46, $0.73, 80 GB, 28, 160 GiB, 800 GiB SSD,
 Nvidia A100 80GB PCIe, VM, $0.54, $0.41, $1.09, $0.54, 80 GB, 28, 120 GiB, 850 GiB SSD,
