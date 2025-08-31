@@ -1,6 +1,6 @@
 GPU Model, Instance Type - With KVM, Dynamic Minimum Cost USD, Dynamic Miximum Cost USD, Spot GPUs - Cost USD, VRAM/GPU, vCPUs/GPU, RAM/GPU, Storage/GPU,
 Nvidia H200 SXM5, VM, $1.12, $2.19, $1.38, 141 GB, 64, 196 GiB, 1990 GiB SSD,
-Nvidia H100 SXM5, VM, $0.84, $2.09, $1.20, 80 GB, 28, 180 GiB, 800 GiB SSD,
+Nvidia H100 SXM5, VM, $0.84, $1.99, $1.20, 80 GB, 28, 180 GiB, 800 GiB SSD,
 Nvidia H100 PCIe, VM, $0.72, $1.74, $1.14, 80 GB, 28, 180 GiB, 850 GiB SSD,
 Nvidia RTX PRO-A6000 SE, VM, $1.08, $1.65, $1.24, 96 GB, 28, 224 GiB, 3200 GiB SSD,
 Nvidia A100 80GB SXM, VM, $0.62, $1.46, $1.14, 80 GB, 28, 160 GiB, 800 GiB SSD,
