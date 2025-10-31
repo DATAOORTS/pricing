@@ -1,4 +1,4 @@
-GPU Model - With InfiniBand, Instance Type - With KVM, On Demand - Cost USD, Spot - Cost USD, VRAM/GPU, vCPUs/GPU, RAM/GPU, Storage/GPU (Expandable),
+GPU Model - With InfiniBand, Instance Type - With KVM, On Demand - Cost USD, Spot - Cost USD, VRAM/GPU, vCPUs/GPU, RAM/GPU, Storage/GPU - Expandable,
 Nvidia H200 SXM5, VM, $2.09, $1.38, 141 GB, 64, 196 GiB, 1990 GiB SSD,
 Nvidia H100 PCIe, VM, $1.74, $1.14, 80 GB, 28, 180 GiB, 850 GiB SSD,
 Nvidia H100 SXM5, VM, $1.89, $1.20, 80 GB, 28, 180 GiB, 800 GiB SSD,
